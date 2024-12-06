@@ -2,7 +2,7 @@
 ---
 # Short_Story_Assignment
 1. Research Paper: https://arxiv.org/pdf/2411.06046
-2. Slides: https://drive.google.com/drive/folders/13M8qm1evVSAWK-5YR2rLJ18IWFHNvh3E?usp=sharing
+2. Medium Article: https://medium.com/@rmramasamy1312/personalized-news-recommendation-system-via-llm-embedding-and-co-occurrence-patterns-5b06180af2e3
 3. Explanation: https://drive.google.com/drive/folders/1j8N8Lz0MLGbzsFgFCkfQNr7IfRfnQ2rb?usp=sharing 
 ---
 ## ABSTRACT
