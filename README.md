@@ -3,7 +3,7 @@
 # Short_Story_Assignment
 1. Research Paper: https://arxiv.org/pdf/2411.06046
 2. SlideShare Link: https://www.slideshare.net/slideshow/personalized-news-recommendation-system-via-llm-embedding-and-co-occurrence-patterns/273881290
-3. Medium Article: https://medium.com/@rmramasamy1312/personalized-news-recommendation-system-via-llm-embedding-and-co-occurrence-patterns-5b06180af2e3
+3. Medium Article: https://medium.com/@rmramasamy1312/lecop-llm-embedding-and-co-occurrence-pattern-0252546c38e8
 4. Explanation: https://drive.google.com/drive/folders/1j8N8Lz0MLGbzsFgFCkfQNr7IfRfnQ2rb?usp=sharing 
 ---
 ## ABSTRACT
